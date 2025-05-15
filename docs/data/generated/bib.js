@@ -1,13 +1,13 @@
 const generatedBibEntries = {
-  "Khan2023PerceivedFairness": {
-    "author": "Khan, M. A. and Fast, E.",
-    "title": "Perceived algorithmic fairness: An empirical study of transparency and trust in AI decision-making",
-    "year": "2023",
-    "journal": "Information Systems Journal",
-    "doi": "10.1111/isj.12482",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/isj.12482",
-    "keywords": "type:article, algorithmic_fairness, transparency, trust, AI_decision-making",
-    "abstract": "This study empirically investigates how transparency impacts individuals’ perceptions of algorithmic fairness and trust in AI-driven decisions in administrative and managerial contexts."
+  "Lee2018Perception": {
+    "author": "Lee, Min Kyung",
+    "title": "Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management",
+    "year": "2018",
+    "journal": "Big Data & Society",
+    "doi": "10.1177/2053951718756684",
+    "url": "https://doi.org/10.1177/2053951718756684",
+    "keywords": "type:article, fairness, trust, emotion, algorithmic_management",
+    "abstract": "Explores how people perceive fairness, trust, and emotional response to algorithmic decisions versus human ones in managerial contexts. The study finds that task type significantly affects perceptions of acceptability."
   },
   "Hutchinson2022Automation": {
     "author": "Hutchinson, Jack and Strickland, Luke and Farrell, Simon and Loft, Shayne",
@@ -19,6 +19,16 @@ const generatedBibEntries = {
     "keywords": "type:article, automation, reliability, trust, advice",
     "abstract": "Examines how users calibrate to changes in automation reliability and how perceived versus actual reliability influence the acceptance of automated advice."
   },
+  "Khan2023PerceivedFairness": {
+    "author": "Khan, M. A. and Fast, E.",
+    "title": "Perceived algorithmic fairness: An empirical study of transparency and trust in AI decision-making",
+    "year": "2023",
+    "journal": "Information Systems Journal",
+    "doi": "10.1111/isj.12482",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/isj.12482",
+    "keywords": "type:article, algorithmic_fairness, transparency, trust, AI_decision-making",
+    "abstract": "This study empirically investigates how transparency impacts individuals’ perceptions of algorithmic fairness and trust in AI-driven decisions in administrative and managerial contexts."
+  },
   "Smith2024HRFairness": {
     "author": "Smith, J. and Brown, L.",
     "title": "Do algorithms play fair? Analysing the perceived fairness of HR algorithmic decision-making",
@@ -29,16 +39,6 @@ const generatedBibEntries = {
     "keywords": "type:article, algorithmic_fairness, human_resources, decision-making, perception",
     "abstract": "Explores how employees perceive fairness in AI-based human resource systems and highlights the ethical and managerial implications of delegating hiring and evaluation to algorithms."
   },
-  "Lee2021TransparencyTrust": {
-    "author": "Lee, M. K. and See, K. E.",
-    "title": "Algorithmic Transparency Affects the Perceived Trustworthiness of Decision-Making Processes",
-    "year": "2021",
-    "journal": "Public Administration Review",
-    "doi": "10.1111/puar.13483",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/puar.13483",
-    "keywords": "type:article, transparency, trustworthiness, decision-making, public_administration",
-    "abstract": "Investigates how varying degrees of algorithmic transparency influence trust in AI decision-making processes within public sector applications."
-  }
   "Park2021HRM": {
     "author": "Park, Hyanghee and Ahn, Daehwan and Hosanagar, Kartik and Lee, Joonhwan",
     "title": "Why Employees Resist Algorithmic Evaluation: A Study on Algorithmic HRM",
@@ -79,15 +79,15 @@ const generatedBibEntries = {
     "keywords": "type:article, AI_acceptance, transparency, XAI, strategy",
     "abstract": "Proposes a framework to enhance AI acceptance, focusing on stakeholder engagement, explainability, and implementation guidelines across sectors."
   },
-  "Garg2023Workplace": {
-    "author": "Garg, Nikhil and Mullainathan, Sendhil",
-    "title": "AI and Human Judgment in the Workplace: An Empirical Assessment",
-    "year": "2023",
-    "journal": "Management Science",
-    "doi": "10.1287/mnsc.2023.12345",
-    "url": "https://doi.org/10.1287/mnsc.2023.12345",
-    "keywords": "type:article, workplace, judgment, AI_integration",
-    "abstract": "Compares decisions made by humans and AI in professional tasks and examines the boundary conditions under which users defer to automated systems."
+  "Lee2021TransparencyTrust": {
+    "author": "Lee, M. K. and See, K. E.",
+    "title": "Algorithmic Transparency Affects the Perceived Trustworthiness of Decision-Making Processes",
+    "year": "2021",
+    "journal": "Public Administration Review",
+    "doi": "10.1111/puar.13483",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/puar.13483",
+    "keywords": "type:article, transparency, trustworthiness, decision-making, public_administration",
+    "abstract": "Investigates how varying degrees of algorithmic transparency influence trust in AI decision-making processes within public sector applications."
   },
   "CorbettDavies2017Risk": {
     "author": "Corbett-Davies, Sam and Goel, Sharad",
